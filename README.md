@@ -11,3 +11,10 @@
 
 * or install along side with other audio mods for extra punch in listening experience 
 
+# ReSamp V2
+
+* Increased half-length to 960 for wider sound stage
+
+* stopband to 196 and cut_off to 120 for precise   attenuation
+
+* Added volume steps to 40
