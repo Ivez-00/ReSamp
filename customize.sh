@@ -8,7 +8,7 @@ unzip -o "$ZIPFILE" ReSamp -d $MODPATH >&2
 chmod -R 0755 $MODPATH >&2
 }
 
-ui_print " ReSamp V1"
+ui_print " ReSamp V2"
 ui_print " Checking device arch.."
 
 case $prop in
