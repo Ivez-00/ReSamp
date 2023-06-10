@@ -20,7 +20,7 @@ resetprop ro.audio.resampler.psd.halflength 960
 resetprop ro.audio.resampler.psd.cutoff_percent 120
 resetprop ro.audio.resampler.psd.tbwcheat 0
 
-ro.media.vol.steps=40
+ro.media.vol.steps 40
 
 
 
