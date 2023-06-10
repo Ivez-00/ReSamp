@@ -1,3 +1,7 @@
+
+![GitHub all releases](https://img.shields.io/github/downloads/Ivez-00/ReSamp/total)
+
+
 # ReSamp
 
 * 1. Force DYN_HIGH_QUALITY resampler. Default is MED_QUALITY (Atleast in AOSP)
